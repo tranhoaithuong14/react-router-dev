@@ -37,3 +37,4 @@ worker-configuration.d.ts
 
 # v7 reference docs
 /public
+.idea
