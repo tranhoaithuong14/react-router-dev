@@ -22,7 +22,7 @@ Series này được thiết kế cho những người:
 - **Thời gian:** ~30 phút
 - **Yêu cầu:** Biết cơ bản JavaScript/TypeScript
 
-#### [Lesson 2: TypeScript cho Factory Method](./02-typescript-for-factory-method.md) 🚧 Coming soon
+#### [Lesson 2: TypeScript cho Factory Method](./02-typescript-for-factory-method.md) ✅
 - Interfaces và types
 - Generic types `<T>`
 - Function signatures
@@ -34,20 +34,20 @@ Series này được thiết kế cho những người:
 
 ### Level 2: Phân tích React Router (Analysis)
 
-#### [Lesson 3: Session Storage Factories - Deep Dive](./03-session-storage-deep-dive.md) 🚧 Coming soon
+#### [Lesson 3: Session Storage Factories - Deep Dive](./03-session-storage-deep-dive.md) ✅
 - Phân tích `createSessionStorage()`
 - So sánh implementations
 - Async factory methods
 - **Thời gian:** ~60 phút
 - **Yêu cầu:** Hoàn thành Lesson 1-2
 
-#### [Lesson 4: History Factories Analysis](./04-history-factories-analysis.md) 🚧 Coming soon
+#### [Lesson 4: History Factories Analysis](./04-history-factories-analysis.md) ✅
 - `createBrowserHistory()`, `createHashHistory()`, `createMemoryHistory()`
 - Strategy pattern kết hợp
 - Browser API integration
 - **Thời gian:** ~60 phút
 
-#### [Lesson 5: Router Factories Analysis](./05-router-factories-analysis.md) 🚧 Coming soon
+#### [Lesson 5: Router Factories Analysis](./05-router-factories-analysis.md) ✅
 - `createBrowserRouter()`, `createHashRouter()`
 - Factory composition
 - Dependency injection
@@ -57,13 +57,13 @@ Series này được thiết kế cho những người:
 
 ### Level 3: Thực hành (Practice & Application)
 
-#### [Lesson 6: Build Your Own Factory](./06-build-your-own-factory.md) 🚧 Coming soon
+#### [Lesson 6: Build Your Own Factory](./06-build-your-own-factory.md) ✅
 - Tự tạo Data Source factory system
 - Step-by-step implementation
 - Best practices
 - **Thời gian:** ~90 phút
 
-#### [Lesson 7: When to Use Factory Method?](./07-when-to-use-factory-method.md) 🚧 Coming soon
+#### [Lesson 7: When to Use Factory Method?](./07-when-to-use-factory-method.md) ✅
 - Khi nào nên/không nên dùng
 - So sánh với patterns khác
 - Real-world scenarios
