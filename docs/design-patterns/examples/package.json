@@ -5,7 +5,11 @@
   "scripts": {
     "lesson-01-bad": "tsx examples/lesson-01/01-without-factory.ts",
     "lesson-01-good": "tsx examples/lesson-01/02-with-factory.ts",
-    "lesson-01-exercise": "tsx examples/lesson-01/03-exercise-solution.ts"
+    "lesson-01-exercise": "tsx examples/lesson-01/03-exercise-solution.ts",
+    "lesson-02-generic": "tsx examples/lesson-02/01-generic-factory.ts",
+    "lesson-02-union": "tsx examples/lesson-02/02-union-types.ts",
+    "lesson-02-exercise": "tsx examples/lesson-02/03-exercise-solution.ts",
+    "lesson-06": "tsx examples/lesson-06/datasource-factory.ts"
   },
   "devDependencies": {
     "@types/node": "^20.0.0",
